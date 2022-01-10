@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: 'Barlow Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+  /* background-color: #981C06; */
+  background: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  border-radius: 10px;
+}
+
+@font-face {
+  font-family: 'Neon Tubes 2';
+  src: url('./fonts/NeonTubes2-Regular.woff2') format('woff2'),
+      url('./fonts/NeonTubes2-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir LT Std';
+  src: url('./fonts/AvenirLTStd-Book.woff2') format('woff2'),
+      url('./fonts/AvenirLTStd-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Scary Halloween';
+  src: url('./fonts/ScaryHalloweenFont.woff2') format('woff2'),
+      url('./fonts/ScaryHalloweenFont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Spooky Skeleton';
+  src: url('./fonts/SpookySkeleton.woff2') format('woff2'),
+      url('./fonts/SpookySkeleton.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* @font-face {
+  font-family: 'Phosphate';
+  src: url('./fonts/PhosphateInline.woff2') format('woff2'),
+      url('./fonts/PhosphateInline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} */
+@font-face {
+  font-family: 'Futura';
+  src: url('./fonts/Futura_Medium.woff2') format('woff2'),
+      url('./fonts/Futura_Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Phosphate';
+  src: local(''),
+      url('./fonts/monoton-v10-latin-regular.woff2') format('woff2'),
+      url('./fonts/monoton-v10-latin-regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir Book';
+  src: url('./fonts/AvenirLTStd-Book.woff2') format('woff2'),
+      url('./fonts/AvenirLTStd-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
